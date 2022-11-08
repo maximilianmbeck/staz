@@ -20,6 +20,7 @@ Code and results of this study can be found in the [this notebook](./correlation
 
 ### Correlation analysis results
 Here are the correlation results for IWA (our method) (Table shows mean values over all datasets, interpret with care):
+
 <img src="./correlation_analysis/results/boxplot_iwa_datasets.png" alt="" width="500"/>
 <img src="./correlation_analysis/results/mean_corr_per_dataset.png" alt="" width="500"/>
 
