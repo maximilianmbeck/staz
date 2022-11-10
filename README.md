@@ -21,7 +21,9 @@ Code and results of this study can be found in the [this notebook](./correlation
 ### Correlation analysis results
 Here are the correlation results for IWA (our method) (Table shows mean values over all datasets, interpret with care):
 
-<img src="./correlation_analysis/results/boxplot_iwa_datasets.png" alt="" width="500"/>
-<img src="./correlation_analysis/results/mean_corr_per_dataset.png" alt="" width="500"/>
+<img src="./correlation_analysis/results/boxplot_all_methods.png" alt="" width="400"/>
+<img src="./correlation_analysis/results/boxplot_iwa_datasets.png" alt="" width="360"/>
+<img src="./correlation_analysis/results/histplot_all_methods.png" alt="" width="760"/>
+<img src="./correlation_analysis/results/mean_corr_per_dataset.png" alt="" width="400"/>
 
-We see a tendency for a positive correlation.
+We see a tendency towards a positive correlation.
