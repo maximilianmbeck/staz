@@ -18,6 +18,8 @@ This plot already indicates a positive correlation between the aggregation weigh
 With this analysis we want to demonstrate, that this is not only the case for this single experiment, but a general trend of our method. Therefore, we expect a clear tendency to a positive correlation between the aggregation weights and target performance. 
 Code and results of this study can be found in the [this notebook](./correlation_analysis/corr_analysis_da_aggregation.ipynb).
 
+In [this notebook](./correlation_analysis/count_analysis_da_aggregation.ipynb) you can find an analysis counting how many models achieve or do not achieve a specific accuracy threshold. 
+
 ### Correlation analysis results
 Here are the correlation results for IWA (our method) (Table shows mean values over all datasets, interpret with care):
 
