@@ -7,7 +7,7 @@ So far it comprises the following analyses:
 - [Correlation analysis](correlation_analysis)
 
 ## Correlation analysis
-This analysis was performed for our publication XXX.
+This analysis was performed for our publication [Addressing Parameter Choice Issues in Unsupervised Domain Adaptation by Aggregation](https://openreview.net/forum?id=M95oDwJXayG).
 
 In this paper we added this plot showing results of a single experiment to demonstrate the performance of our method:
 <!-- ![Accuracy and Aggregation weights for Importance weighted Aggregation]() -->
